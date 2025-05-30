@@ -64,7 +64,6 @@
 
 <nav>
   <a href="https://cahcrvg.github.io/TrabalhoExtensao/">Início</a>
-  <a href="#">Discentes</a>
 </nav>
 
 <div class="container">

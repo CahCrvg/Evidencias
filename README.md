@@ -70,5 +70,11 @@
 <div class="container">
   <div class="content">
   <h1>Fotos</h1>
-  <a href="foto1.jpg"> <img src="foto1.jpg" width="100"></a><br><br><br>
-  <a href="foto2.jpg"> <img src="foto2.jpg" width="100"></a>
+<a href="foto4.jpg"> <img src="foto4.jpg" width="100"></a>
+  <a href="foto3.jpg"> <img src="foto3.jpg" width="100"></a>
+  <a href="foto5.jpg"> <img src="foto5.jpg" width="100"></a>
+  <a href="foto6.jpg"> <img src="foto6.jpg" width="100"></a>
+  <a href="foto7.jpg"> <img src="foto7.jpg" width="100"></a>
+  <a href="foto8.jpg"> <img src="foto8.jpg" width="100"></a><br><br>
+   <a href="foto1.jpg"> <img src="foto1.jpg" width="100"></a>
+  <a href="foto2.jpg"> <img src="foto2.jpg" width="100"></a><br><br>
